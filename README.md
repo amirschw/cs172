@@ -1,3 +1,5 @@
 # cs172
 
-See assignment4.pdf
+2017 Introduction to Computer Science
+
+https://www.cs.bgu.ac.il/~intro172/Main
